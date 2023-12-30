@@ -1,3 +1,4 @@
+
 {
   "Header": {
     "title": "LUXIROUS WINDOWVIEL",
@@ -77,12 +78,12 @@
       "text": "Utilize cutting-edge tools and industry expertise to conduct a thorough estimation."
     },
     {
-      "icon": "fa fa-toolbox",
+      "icon": "fa fa-toolbox",
       "name": "Craftsmanship Implementation",
       "text": "Once the concept and estimation are approved, our skilled artisans and craftsmen take charge."
     },
     {
-      "icon": "fa fa-language",
+      "icon": "fa fa-certificate",
       "name": "Quality Assurance",
       "text": "As the crafted window veils take shape, our quality assurance process kicks in. Rigorous checks and inspections are conducted to ensure that every piece meets our high standards of craftsmanship."
     },
@@ -100,7 +101,7 @@
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"The window veils I ordered from this website transformed my living room into a cozy and stylish space. The variety of designs and colors made it easy to find the perfect match for my decor. I'm thrilled with the results!\"",
+      "text": "\"The window veils I ordered from this website transformed my living room into a cozy and stylish space. The variety of designs and colors made it easy.\"",
       "name": "SUSHMA"
     },
     {
@@ -139,6 +140,11 @@
       "img": "img/team/02.jpg",
       "name": "Shraddha Jadhav",
       "job": "HR and Manager"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Pratik Deshmukh",
+      "job": "Designer"
     },
     {
       "img": "img/team/03.jpg",

@@ -1,6 +1,10 @@
 import { useState } from "react";
 import emailjs from "emailjs-com";
 import React from "react";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faInstagram, faLinkedin, faYoutube } from '@fortawesome/free-brands-svg-icons';
+
+
 
 const initialState = {
   name: "",
@@ -128,19 +132,19 @@ export const Contact = (props) => {
               <div className="social">
                 <ul>
                   <li>
-                    <a href={props.data ? props.data.facebook : "/"}>
-                      <i className="fa fa-INSTAGRAM"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a href={props.data ? props.data.twitter : "/"}>
-                      <i className="fa fa-LINKEDIN"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a href={props.data ? props.data.youtube : "/"}>
-                      <i className="fa fa-youtube"></i>
-                    </a>
+                  <a href={props.data ? props.data.instagram : "/"}>
+        <FontAwesomeIcon icon={faInstagram} />
+      </a>
+    </li>
+    <li>
+      <a href={props.data ? props.data.linkedin : "/"}>
+        <FontAwesomeIcon icon={faLinkedin} />
+      </a>
+    </li>
+    <li>
+      <a href={props.data ? props.data.youtube : "/"}>
+        <FontAwesomeIcon icon={faYoutube} />
+      </a>
                   </li>
                 </ul>
               </div>
