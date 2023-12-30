@@ -584,6 +584,7 @@ label {
   border-radius: 50%;
   transition: all 0.3s;
 }
+
 #contact .social i.fa:hover {
   color: #608dfd;
   background: #fff;

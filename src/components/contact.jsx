@@ -132,19 +132,19 @@ export const Contact = (props) => {
               <div className="social">
                 <ul>
                   <li>
-                  <a href={props.data ? props.data.instagram : "/"}>
-        <FontAwesomeIcon icon={faInstagram} />
-      </a>
-    </li>
-    <li>
-      <a href={props.data ? props.data.linkedin : "/"}>
-        <FontAwesomeIcon icon={faLinkedin} />
-      </a>
-    </li>
-    <li>
-      <a href={props.data ? props.data.youtube : "/"}>
-        <FontAwesomeIcon icon={faYoutube} />
-      </a>
+                    <a href={props.data ? props.data.instagram : "/"}>
+                      <i className="fa fa-instagram"> </i>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://www.linkedin.com/company/window-veil/">
+                      <i className="fa fa-linkedin"> </i>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://www.facebook.com/windowveil">
+                      <i className="fa fa-facebook">  </i>
+                    </a>
                   </li>
                 </ul>
               </div>
