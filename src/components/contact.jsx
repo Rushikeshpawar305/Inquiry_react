@@ -129,12 +129,12 @@ export const Contact = (props) => {
                 <ul>
                   <li>
                     <a href={props.data ? props.data.facebook : "/"}>
-                      <i className="fa fa-facebook"></i>
+                      <i className="fa fa-INSTAGRAM"></i>
                     </a>
                   </li>
                   <li>
                     <a href={props.data ? props.data.twitter : "/"}>
-                      <i className="fa fa-twitter"></i>
+                      <i className="fa fa-LINKEDIN"></i>
                     </a>
                   </li>
                   <li>
@@ -152,7 +152,7 @@ export const Contact = (props) => {
         <div className="container text-center">
           <p>
             &copy; JV Industries Landing React Land Page Template. Design by{" "}
-            <a href="http://www.templatewire.com" rel="nofollow">
+            <a href="https://rushikeshpawar305.github.io/" rel="nofollow">
               Rushikesh Pawar
             </a>
           </p>

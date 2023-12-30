@@ -1,21 +1,21 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "LUXIROUS WINDOWVIEL",
+    "paragraph": "Imagine a blind that not only shields your space from external elements but also adds a touch of elegance and serenity to your surroundings. That's the essence of Window Veil. We're proud to be the pioneers of this unique concept in India, backed by a patent from the Indian government."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "We take pride in introducing innovations that redefine your living spaces. With a commitment to blending design and functionality, we present Window Veil as a testament to our dedication. Our products are crafted with precision, using high-quality materials to ensure durability and energy efficiency. Backed by our product warranty, Window Veil is more than a window covering; it's an embodiment of our commitment to providing you with timeless solutions that enhance your lifestyle. Join us in discovering a world where light, space, and meaning converge, and where your surroundings become a canvas for illuminated expressions.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Artistic and Unique Design",
+      "Customization for Personalization",
+      "Balanced Light Control",
+      "Nocturnal Elegance"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Energy Efficiency and Sustainability",
+      "Durable and High-Quality Fabric",
+      "Extensive Color Palette",
+      "Join the Window Veil Revolution"
     ]
   },
   "Gallery": [
@@ -67,41 +67,41 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-brain",
+      "name": "Creative Ideation",
+      "text": "Commence with a collaborative ideation process, harmonizing artistic vision and functional needs."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-wrench",
+      "name": "Precision Estimation",
+      "text": "Utilize cutting-edge tools and industry expertise to conduct a thorough estimation."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-toolbox",
+      "name": "Craftsmanship Implementation",
+      "text": "Once the concept and estimation are approved, our skilled artisans and craftsmen take charge."
     },
     {
       "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Quality Assurance",
+      "text": "As the crafted window veils take shape, our quality assurance process kicks in. Rigorous checks and inspections are conducted to ensure that every piece meets our high standards of craftsmanship."
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-medal",
+      "name": "Seamless Installation",
+      "text": "The handover process marks the seamless transition from our workshop to your space. Your meticulously crafted window veils are prepared for a flawless installation."
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-handshake-angle",
+      "name": "Client Satisfaction and Support",
+      "text": "Beyond the installation, our commitment to your satisfaction continues. We provide post-installation support, addressing any queries or adjustments needed."
     }
   ],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"The window veils I ordered from this website transformed my living room into a cozy and stylish space. The variety of designs and colors made it easy to find the perfect match for my decor. I'm thrilled with the results!\"",
+      "name": "SUSHMA"
     },
     {
       "img": "img/testimonials/02.jpg",
@@ -132,53 +132,48 @@
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "Vipul Jadhav",
+      "job": "CEO and Founder"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Shraddha Jadhav",
+      "job": "HR and Manager"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "Pratik Deshmukh",
+      "job": "Designer"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "Swargate, Pune, Maharashtra-411042",
+    "phone": "+91 8788055962                      +91 8208452720",
+    "email": "windowveil07@gmail.in               info.windowveil@gmail.com",
     "facebook": "fb.com",
-    "twitter": "twitter.com",
+    "linkedin": "https://www.linkedin.com/company/window-veil",
     "youtube": "youtube.com"
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-tint",
+      "title": "Water Resistent",
+      "text": "Lasting protection from water "
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-shield",
+      "title": "Warranty",
+      "text": "5 Years Warranty"
     },
     {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-home",
+      "title": "Free Delivery",
+      "text": "Free shipping all over in India "
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    }
+      "icon": "fa fa-gear",
+      "title": "Free Installation",
+      "text": "Easier and smooth installation"
+    }   
   ]
 }
