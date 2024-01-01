@@ -23,50 +23,50 @@
     {
       "title": "Project Title",
       "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "smallImage": "img/img1/1.jpg"
     },
     {
       "title": "Project Title",
       "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "smallImage": "img/img1/2.jpg"
     },
     {
       "title": "Project Title",
       "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "smallImage": "img/img1/3.jpg"
     },
     {
       "title": "Project Title",
       "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "smallImage": "img/img1/4.jpg"
     },
     {
       "title": "Project Title",
       "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "smallImage": "img/img1/5.jpg"
     },
     {
       "title": "Project Title",
       "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "smallImage": "img/img1/6.jpg"
     },
     {
       "title": "Project Title",
       "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
+      "smallImage": "img/img1/7.jpg"
     },
     {
       "title": "Project Title",
       "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
+      "smallImage": "img/img1/8.jpeg"
     },
     {
       "title": "Project Title",
       "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "smallImage": "img/img1/9.jpeg"
     }
   ],
-  "Services": [
+  "Workingprocess": [
     {
       "icon": "fa fa-brain",
       "name": "Creative Ideation",
@@ -88,7 +88,7 @@
       "text": "As the crafted window veils take shape, our quality assurance process kicks in. Rigorous checks and inspections are conducted to ensure that every piece meets our high standards of craftsmanship."
     },
     {
-      "icon": "fa fa-medal",
+      "icon": "fa fa-check-circle",
       "name": "Seamless Installation",
       "text": "The handover process marks the seamless transition from our workshop to your space. Your meticulously crafted window veils are prepared for a flawless installation."
     },
@@ -100,34 +100,9 @@
   ],
   "Testimonials": [
     {
-      "img": "img/testimonials/01.jpg",
+      "img": "img/testimonials/user.avif",
       "text": "\"The window veils I ordered from this website transformed my living room into a cozy and stylish space. The variety of designs and colors made it easy.\"",
       "name": "SUSHMA"
-    },
-    {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
     }
   ],
   "Team": [
@@ -157,7 +132,7 @@
     "phone": "+91 8788055962                      +91 8208452720",
     "email": "windowveil07@gmail.in               info.windowveil@gmail.com",
     "facebook": "fb.com",
-    "linkedin": "https://www.linkedin.com/company/window-veil",
+    "twitter": "twitter.com",
     "youtube": "youtube.com"
   },
   "Features": [

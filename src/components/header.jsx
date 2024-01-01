@@ -18,6 +18,12 @@ export const Header = (props) => {
                   className="btn btn-custom btn-lg page-scroll"
                 >
                   Learn More
+                </a>{"  "}
+                <a
+                  href="https://windowveil.in/shop-2/"
+                  className="btn btn-custom btn-lg page-scroll"
+                >
+                  Shop Now
                 </a>{" "}
               </div>
             </div>

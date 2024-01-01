@@ -2,14 +2,12 @@ import { useState } from "react";
 import emailjs from "emailjs-com";
 import React from "react";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faInstagram, faLinkedin, faYoutube } from '@fortawesome/free-brands-svg-icons';
-
-
+import { faInstagram } from '@fortawesome/free-brands-svg-icons';
 
 const initialState = {
-  name: "",
-  email: "",
-  message: "",
+  Name: "",
+  Email: "",
+  Message: "",
 };
 export const Contact = (props) => {
   const [{ name, email, message }, setState] = useState(initialState);
@@ -19,14 +17,18 @@ export const Contact = (props) => {
     setState((prevState) => ({ ...prevState, [name]: value }));
   };
   const clearState = () => setState({ ...initialState });
-  
-  
+
   const handleSubmit = (e) => {
     e.preventDefault();
     console.log(name, email, message);
-    
+
     emailjs
-      .sendForm("YOUR_SERVICE_ID", "YOUR_TEMPLATE_ID", e.target, "YOUR_PUBLIC_KEY")
+      .sendForm(
+        "YOUR_SERVICE_ID",
+        "YOUR_TEMPLATE_ID",
+        e.target,
+        "YOUR_PUBLIC_KEY"
+      )
       .then(
         (result) => {
           console.log(result.text);
@@ -132,18 +134,18 @@ export const Contact = (props) => {
               <div className="social">
                 <ul>
                   <li>
-                    <a href={props.data ? props.data.instagram : "/"}>
-                      <i className="fa fa-instagram"> </i>
+                  <a href={props.data ? props.data.facebook : "/"}>
+                      <i className="fa fa-instagram"></i>
                     </a>
                   </li>
                   <li>
-                    <a href="https://www.linkedin.com/company/window-veil/">
-                      <i className="fa fa-linkedin"> </i>
+                    <a href={props.data ? props.data.twitter : "/"}>
+                      <i className="fa fa-linkedin"></i>
                     </a>
                   </li>
                   <li>
-                    <a href="https://www.facebook.com/windowveil">
-                      <i className="fa fa-facebook">  </i>
+                    <a href={props.data ? props.data.youtube : "/"}>
+                      <i className="fa fa-pinterest"></i>
                     </a>
                   </li>
                 </ul>
