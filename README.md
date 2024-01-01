@@ -2,7 +2,7 @@
 
 By Rushikesh Pawar (intern at JV industries)
 
-## <a href="https://react-landing-page-template-93ne.vercel.app/">LIVE DEMO</a> 
+## <a href="http://localhost:3000/)http://localhost:3000/">LIVE DEMO</a> 
 
 
 
