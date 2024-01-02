@@ -24,10 +24,10 @@ export const Contact = (props) => {
 
     emailjs
       .sendForm(
-        "YOUR_SERVICE_ID",
-        "YOUR_TEMPLATE_ID",
+        "YOUR_SERVICE-ID",
+        "YOUR_TEMPLATE-ID",
         e.target,
-        "YOUR_PUBLIC_KEY"
+        "YOUR_PUBLIC-KEY"
       )
       .then(
         (result) => {
