@@ -1,6 +1,6 @@
 import React from "react";
 
-export const Navigation = (props) => {
+export const Navigation = () => {
   return (
     <nav id="menu" className="navbar navbar-default navbar-fixed-top">
       <div className="container">
@@ -11,13 +11,16 @@ export const Navigation = (props) => {
             data-toggle="collapse"
             data-target="#bs-example-navbar-collapse-1"
           >
-            {" "}
-            <span className="sr-only">Toggle navigation</span>{" "}
-            <span className="icon-bar"></span>{" "}
-            <span className="icon-bar"></span>{" "}
-            <span className="icon-bar"></span>{" "}
+            <span className="sr-only">Toggle navigation</span>
+            <span className="icon-bar"></span>
+            <span className="icon-bar"></span>
+            <span className="icon-bar"></span>
           </button>
-          <img className="navbar-brand page-scroll" src="./img/logo.png" alt="logo"></img>
+          <img
+            className="navbar-brand page-scroll"
+            src="./img/logo.png"
+            alt="logo"
+          ></img>
         </div>
 
         <div
@@ -26,37 +29,17 @@ export const Navigation = (props) => {
         >
           <ul className="nav navbar-nav navbar-right">
             <li>
-              <a href="#features" className="page-scroll">
-                Features
+              <a href="/" className="page-scroll">
+                Home
               </a>
             </li>
             <li>
-              <a href="#about" className="page-scroll">
-                About
-              </a>
-            </li>
-            <li>
-              <a href="#Workingprocess" className="page-scroll">
-                Workingprocess
-              </a>
-            </li>
-            <li>
-              <a href="#portfolio" className="page-scroll">
+              <a href="/gallery" className="page-scroll">
                 Gallery
               </a>
             </li>
             <li>
-              <a href="#testimonials" className="page-scroll">
-                Testimonials
-              </a>
-            </li>
-            <li>
-              <a href="#team" className="page-scroll">
-                Team
-              </a>
-            </li>
-            <li>
-              <a href="#contact" className="page-scroll">
+              <a href="/#contact" className="page-scroll">
                 Contact
               </a>
             </li>

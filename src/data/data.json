@@ -1,4 +1,3 @@
-
 {
   "Header": {
     "title": "LUXIROUS WINDOWVIEL",
@@ -21,49 +20,293 @@
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/img1/1.jpg"
+      "title": "ahmdabad",
+      "id": "ahmdabad",
+      "largeImage": "img/portfolio/ahmdabad.png",
+      "smallImage": "img/portfolio/ahmdabad.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/img1/2.jpg"
+      "title": "asia-day",
+      "id": "asia-day",
+      "largeImage": "img/portfolio/asia-day.png",
+      "smallImage": "img/portfolio/asia-day.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/img1/3.jpg"
+      "title": "asia-night",
+      "id": "asia-night",
+      "largeImage": "img/portfolio/asia-night.png",
+      "smallImage": "img/portfolio/asia-night.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/img1/4.jpg"
+      "title": "atm-machine-2",
+      "id": "atm-machine-2",
+      "largeImage": "img/portfolio/atm-machine-2.jpg",
+      "smallImage": "img/portfolio/atm-machine-2.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/img1/5.jpg"
+      "title": "atm-machine",
+      "id": "atm-machine",
+      "largeImage": "img/portfolio/atm-machine.png",
+      "smallImage": "img/portfolio/atm-machine.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/img1/6.jpg"
+      "title": "australia-city",
+      "id": "australia-city",
+      "largeImage": "img/portfolio/australia-city.png",
+      "smallImage": "img/portfolio/australia-city.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/img1/7.jpg"
+      "title": "big-horizontal (1)",
+      "id": "big-horizontal-1",
+      "largeImage": "img/portfolio/big-horizontal (1).png",
+      "smallImage": "img/portfolio/big-horizontal (1).png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/img1/8.jpeg"
+      "title": "big-horizontal-city-life",
+      "id": "big-horizontal-city-life",
+      "largeImage": "img/portfolio/big-horizontal-city-life.png",
+      "smallImage": "img/portfolio/big-horizontal-city-life.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/img1/9.jpeg"
+      "title": "big-horizontal-dark-aqua",
+      "id": "big-horizontal-dark-aqua",
+      "largeImage": "img/portfolio/big-horizontal-dark-aqua.png",
+      "smallImage": "img/portfolio/big-horizontal-dark-aqua.png"
+    },
+    {
+      "title": "big-horizontal-hollywood",
+      "id": "big-horizontal-hollywood",
+      "largeImage": "img/portfolio/big-horizontal-hollywood.png",
+      "smallImage": "img/portfolio/big-horizontal-hollywood.png"
+    },
+    {
+      "title": "big-horizontal-London",
+      "id": "big-horizontal-London",
+      "largeImage": "img/portfolio/big-horizontal-London.png",
+      "smallImage": "img/portfolio/big-horizontal-London.png"
+    },
+    {
+      "title": "big-horizontal-modern-city",
+      "id": "big-horizontal-modern-city",
+      "largeImage": "img/portfolio/big-horizontal-modern-city.png",
+      "smallImage": "img/portfolio/big-horizontal-modern-city.png"
+    },
+    {
+      "title": "big-horizontal-olive-green",
+      "id": "big-horizontal-olive-green",
+      "largeImage": "img/portfolio/big-horizontal-olive-green.png",
+      "smallImage": "img/portfolio/big-horizontal-olive-green.png"
+    },
+    {
+      "title": "big-horizontal-red",
+      "id": "big-horizontal-red",
+      "largeImage": "img/portfolio/big-horizontal-red.png",
+      "smallImage": "img/portfolio/big-horizontal-red.png"
+    },
+    {
+      "title": "big-horizontal",
+      "id": "big-horizontal",
+      "largeImage": "img/portfolio/big-horizontal.png",
+      "smallImage": "img/portfolio/big-horizontal.png"
+    },
+    {
+      "title": "city-scape",
+      "id": "city-scape",
+      "largeImage": "img/portfolio/city-scape.png",
+      "smallImage": "img/portfolio/city-scape.png"
+    },
+    {
+      "title": "cityscape-2",
+      "id": "cityscape-2",
+      "largeImage": "img/portfolio/cityscape-2.jpg",
+      "smallImage": "img/portfolio/cityscape-2.jpg"
+    },
+    {
+      "title": "cowarking",
+      "id": "cowarking",
+      "largeImage": "img/portfolio/cowarking.jpg",
+      "smallImage": "img/portfolio/cowarking.jpg"
+    },
+    {
+      "title": "coworking-3",
+      "id": "coworking-3",
+      "largeImage": "img/portfolio/coworking-3.png",
+      "smallImage": "img/portfolio/coworking-3.png"
+    },
+    {
+      "title": "coworking2",
+      "id": "coworking2",
+      "largeImage": "img/portfolio/coworking2.jpg",
+      "smallImage": "img/portfolio/coworking2.jpg"
+    },
+    {
+      "title": "cream-color",
+      "id": "cream-color",
+      "largeImage": "img/portfolio/cream-color.png",
+      "smallImage": "img/portfolio/cream-color.png"
+    },
+    {
+      "title": "creative-team-2",
+      "id": "creative-team-2",
+      "largeImage": "img/portfolio/creative-team-2.jpg",
+      "smallImage": "img/portfolio/creative-team-2.jpg"
+    },
+    {
+      "title": "creative-team",
+      "id": "creative-team",
+      "largeImage": "img/portfolio/creative-team.jpg",
+      "smallImage": "img/portfolio/creative-team.jpg"
+    },
+    {
+      "title": "different-proffesions",
+      "id": "different-proffesions",
+      "largeImage": "img/portfolio/different-proffesions.png",
+      "smallImage": "img/portfolio/different-proffesions.png"
+    },
+    {
+      "title": "diverse-friend",
+      "id": "diverse-friend",
+      "largeImage": "img/portfolio/diverse-friend.png",
+      "smallImage": "img/portfolio/diverse-friend.png"
+    },
+    {
+      "title": "family",
+      "id": "family",
+      "largeImage": "img/portfolio/family.jpg",
+      "smallImage": "img/portfolio/family.jpg"
+    },
+    {
+      "title": "father-and-son-2",
+      "id": "father-and-son-2",
+      "largeImage": "img/portfolio/father-and-son-2.jpg",
+      "smallImage": "img/portfolio/father-and-son-2.jpg"
+    },
+    {
+      "title": "father-and-son",
+      "id": "father-and-son",
+      "largeImage": "img/portfolio/father-and-son.jpg",
+      "smallImage": "img/portfolio/father-and-son.jpg"
+    },
+    {
+      "title": "mandala-art-1",
+      "id": "mandala-art-1",
+      "largeImage": "img/portfolio/mandala-art-1.jpg",
+      "smallImage": "img/portfolio/mandala-art-1.jpg"
+    },
+    {
+      "title": "mandla-design",
+      "id": "mandla-design",
+      "largeImage": "img/portfolio/mandla-design.jpg",
+      "smallImage": "img/portfolio/mandla-design.jpg"
+    },
+    {
+      "title": "meeting",
+      "id": "meeting",
+      "largeImage": "img/portfolio/meeting.jpg",
+      "smallImage": "img/portfolio/meeting.jpg"
+    },
+    {
+      "title": "project-engineer",
+      "id": "project-engineer",
+      "largeImage": "img/portfolio/project-engineer.jpg",
+      "smallImage": "img/portfolio/project-engineer.jpg"
+    },
+    {
+      "title": "roller-blinds-window-cityscape (1)",
+      "id": "roller-blinds-window-cityscape-1",
+      "largeImage": "img/portfolio/roller-blinds-window-cityscape (1).jpg",
+      "smallImage": "img/portfolio/roller-blinds-window-cityscape (1).jpg"
+    },
+    {
+      "title": "roller-blinds-window-cityscape",
+      "id": "roller-blinds-window-cityscape",
+      "largeImage": "img/portfolio/roller-blinds-window-cityscape.jpg",
+      "smallImage": "img/portfolio/roller-blinds-window-cityscape.jpg"
+    },
+    {
+      "title": "school-2",
+      "id": "school-2",
+      "largeImage": "img/portfolio/school-2.jpg",
+      "smallImage": "img/portfolio/school-2.jpg"
+    },
+    {
+      "title": "school",
+      "id": "school",
+      "largeImage": "img/portfolio/school.png",
+      "smallImage": "img/portfolio/school.png"
+    },
+    {
+      "title": "smoking-2",
+      "id": "smoking-2",
+      "largeImage": "img/portfolio/smoking-2.jpg",
+      "smallImage": "img/portfolio/smoking-2.jpg"
+    },
+
+    {
+      "title": "smoking",
+      "id": "smoking",
+      "largeImage": "img/portfolio/smoking.jpg",
+      "smallImage": "img/portfolio/smoking.jpg"
+    },
+    {
+      "title": "soldier-2",
+      "id": "soldier-2",
+      "largeImage": "img/portfolio/soldier-2.jpg",
+      "smallImage": "img/portfolio/soldier-2.jpg"
+    },
+    {
+      "title": "soldier",
+      "id": "soldier",
+      "largeImage": "img/portfolio/soldier.jpg",
+      "smallImage": "img/portfolio/soldier.jpg"
+    },
+    {
+      "title": "three-with-sofa-australia-city",
+      "id": "three-with-sofa-australia-city",
+      "largeImage": "img/portfolio/three-with-sofa-australia-city.jpg",
+      "smallImage": "img/portfolio/three-with-sofa-australia-city.jpg"
+    },
+    {
+      "title": "three-with-sofa-hires-city-life",
+      "id": "three-with-sofa-hires-city-life",
+      "largeImage": "img/portfolio/three-with-sofa-hires-city-life.jpg",
+      "smallImage": "img/portfolio/three-with-sofa-hires-city-life.jpg"
+    },
+    {
+      "title": "three-with-sofa-hires-dentist",
+      "id": "three-with-sofa-hires-dentist",
+      "largeImage": "img/portfolio/three-with-sofa-hires-dentist.jpg",
+      "smallImage": "img/portfolio/three-with-sofa-hires-dentist.jpg"
+    },
+    {
+      "title": "three-with-sofa-hires-football",
+      "id": "three-with-sofa-hires-football",
+      "largeImage": "img/portfolio/three-with-sofa-hires-football.jpg",
+      "smallImage": "img/portfolio/three-with-sofa-hires-football.jpg"
+    },
+    {
+      "title": "three-with-sofa-hires-hollywood",
+      "id": "three-with-sofa-hires-hollywood",
+      "largeImage": "img/portfolio/three-with-sofa-hires-hollywood.jpg",
+      "smallImage": "img/portfolio/three-with-sofa-hires-hollywood.jpg"
+    },
+    {
+      "title": "three-with-sofa-hires-London",
+      "id": "three-with-sofa-hires-London",
+      "largeImage": "img/portfolio/three-with-sofa-hires-London.jpg",
+      "smallImage": "img/portfolio/three-with-sofa-hires-London.jpg"
+    },
+    {
+      "title": "three-with-sofa-hires-modern-city",
+      "id": "three-with-sofa-hires-modern-city",
+      "largeImage": "img/portfolio/three-with-sofa-hires-modern-city.jpg",
+      "smallImage": "img/portfolio/three-with-sofa-hires-modern-city.jpg"
+    },
+    {
+      "title": "Veil-Design",
+      "id": "Veil-Design",
+      "largeImage": "img/portfolio/Veil-Design.jpg",
+      "smallImage": "img/portfolio/Veil-Design.jpg"
     }
   ],
   "Workingprocess": [
@@ -103,28 +346,16 @@
       "img": "img/testimonials/user.avif",
       "text": "\"The window veils I ordered from this website transformed my living room into a cozy and stylish space. The variety of designs and colors made it easy.\"",
       "name": "SUSHMA"
-    }
-  ],
-  "Team": [
-    {
-      "img": "img/team/01.jpg",
-      "name": "Vipul Jadhav",
-      "job": "CEO and Founder"
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Shraddha Jadhav",
-      "job": "HR and Manager"
+      "img": "img/testimonials/user.avif",
+      "text": "\"The window veils I ordered from this website transformed my living room into a cozy and stylish space. The variety of designs and colors made it easy.\"",
+      "name": "SUSHMA"
     },
     {
-      "img": "img/team/03.jpg",
-      "name": "Pratik Deshmukh",
-      "job": "Designer"
-    },
-    {
-      "img": "img/team/03.jpg",
-      "name": "Pratik Deshmukh",
-      "job": "Designer"
+      "img": "img/testimonials/user.avif",
+      "text": "\"The window veils I ordered from this website transformed my living room into a cozy and stylish space. The variety of designs and colors made it easy.\"",
+      "name": "SUSHMA"
     }
   ],
   "Contact": {
@@ -155,6 +386,6 @@
       "icon": "fa fa-gear",
       "title": "Free Installation",
       "text": "Easier and smooth installation"
-    }   
+    }
   ]
 }

@@ -1,13 +1,11 @@
 import { useState } from "react";
 import emailjs from "emailjs-com";
 import React from "react";
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faInstagram } from '@fortawesome/free-brands-svg-icons';
 
 const initialState = {
-  Name: "",
-  Email: "",
-  Message: "",
+  Name: "Your name",
+  Email: "abc@xyz.com",
+  Message: "type here",
 };
 export const Contact = (props) => {
   const [{ name, email, message }, setState] = useState(initialState);
@@ -109,7 +107,9 @@ export const Contact = (props) => {
                 <span>
                   <i className="fa fa-map-marker"></i> Address
                 </span>
-                {props.data ? props.data.address : "loading"}
+                {props.data
+                  ? props.data.address
+                  : "Swargate, Pune, Maharashtra-411042"}
               </p>
             </div>
             <div className="contact-item">
@@ -117,7 +117,9 @@ export const Contact = (props) => {
                 <span>
                   <i className="fa fa-phone"></i> Phone
                 </span>{" "}
-                {props.data ? props.data.phone : "loading"}
+                {props.data
+                  ? props.data.phone
+                  : "+91 8788055962                      +91 8208452720"}
               </p>
             </div>
             <div className="contact-item">
@@ -125,7 +127,9 @@ export const Contact = (props) => {
                 <span>
                   <i className="fa fa-envelope-o"></i> Email
                 </span>{" "}
-                {props.data ? props.data.email : "loading"}
+                {props.data
+                  ? props.data.email
+                  : "windowveil07@gmail.in               info.windowveil@gmail.com"}
               </p>
             </div>
           </div>
@@ -134,7 +138,7 @@ export const Contact = (props) => {
               <div className="social">
                 <ul>
                   <li>
-                  <a href={props.data ? props.data.facebook : "/"}>
+                    <a href={props.data ? props.data.facebook : "/"}>
                       <i className="fa fa-instagram"></i>
                     </a>
                   </li>
@@ -157,7 +161,7 @@ export const Contact = (props) => {
       <div id="footer">
         <div className="container text-center">
           <p>
-            &copy; JV Industries Landing React Land Page Template. Design by{" "}
+            &copy; JV Industries Landing Page Designed by{" "}
             <a href="https://rushikeshpawar305.github.io/" rel="nofollow">
               Rushikesh Pawar
             </a>
